@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.marketappauth">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/SampleApp.DayNight">
+        <!-- Added by Thamal -->
+        <activity android:name=".healthiness.HealthManuActivity"></activity>
+        <activity android:name=".healthiness.CropListActivity" />
+        <activity android:name=".healthiness.ClassifierActivity" />
+        <!---->
+        <activity android:name=".BuyerSellerActivity"></activity>
+        <activity android:name=".harvest.ClimateActivity" />
+        <activity android:name=".harvest.MainHarvestActivity" />
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".HarvestDetailsActivity" />
+        <activity android:name=".MahaweliHomeActivity" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".EditProfile" />
+        <activity android:name=".harvest.HarvestHome" />
+        <activity android:name=".LanguageActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".RegisterActivity" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

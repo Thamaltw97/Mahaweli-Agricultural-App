@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "21230137377",
+    "project_id": "marketappauth",
+    "storage_bucket": "marketappauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21230137377:android:aa09d5ae7ef5e38417f360",
+        "android_client_info": {
+          "package_name": "com.example.marketappauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21230137377-lcdrggb4dqjd1jjk90ntu21gg4rqkc7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1HiioKHKUwljyNiXtS6TFiQWisXQ1oX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21230137377-lcdrggb4dqjd1jjk90ntu21gg4rqkc7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

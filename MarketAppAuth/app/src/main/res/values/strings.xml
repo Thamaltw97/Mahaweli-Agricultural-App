@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Mahaweli Market</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="weather_app">Weather</string>
+    <string name="haveAccount">Already have an account ? Login Here </string>
+    <string name="login">login</string>
+    <string name="NewHere">New Here ?  Create Account</string>
+    <string name="Forgotpw">FORGOT PASSWORD?</string>
+    <string name="REGISTER"> Register Now! </string>
+    <string name="Dashboard">Dashboard</string>
+    <string name="Weather">Weather</string>
+    <string name="Wish_morn">Good Morning</string>
+    <string name="Wish_eve">Good Evening</string>
+    <string name="Harvesting">Harvesting</string>
+    <string name="Harvesting_Info">Harvest Info</string>
+    <string name="Plot">Plot</string>
+    <string name="Weight">Weignt(Kg)</string>
+    <string name="Price">Price(Rs)</string>
+    <string name="Name">Name</string>
+    <string name="Save">Save</string>
+    <string name="SelectUser">Select User Type</string>
+    <string name="PleaseSelectUser">Please select a user type</string>
+    <string name="Seller">Seller</string>
+    <string name="Buyer">Buyer</string>
+    <string name="Next">Next</string>
+
+    <string name="description_info">Info</string>
+    <string name="request_permission">This needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="toggle_turn_on">NN:On</string>
+    <string name="toggle_turn_off">NN:Off</string>
+    <string name="toggle">Use NNAPI</string>
+    <string name="tflite">tflite</string>
+    <string name="nnapi">NNAPI</string>
+    <string name="threads">Threads:</string>
+
+    <string name="model">Model:</string>
+    <string-array name="models">
+        <item>Quantized</item>
+        <item>Float</item>
+    </string-array>
+
+    <string name="device">Device:</string>
+    <string-array name="devices">
+        <item>CPU</item>
+        <item>GPU</item>
+        <item>NNAPI</item>
+    </string-array>
+    <string name="checkHealth">Check Health</string>
+    <string name="viewHealth">View Health</string>
+    <string name="healthiness">Healthiness</string>
+    <string name="cropAndHealth">CROP AND HEALTHINESS</string>
+
+</resources>

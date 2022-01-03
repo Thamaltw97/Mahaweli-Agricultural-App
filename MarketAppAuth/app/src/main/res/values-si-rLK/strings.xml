@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mahaweli Market</string>
+    <string name = "open"> විවෘත </string>
+    <string name = "close"> වසන්න </string>
+    <string name = "hello_blank_fragment"> හෙලෝ හිස් කැබැල්ල </string>
+    <string name = "weather_app"> කාලගුණය </string>
+    <string name = "haveAccount"> දැනටමත් ගිණුමක් තිබේද? </string>
+    <string name = "login"> පිවිසුම </string>
+    <string name = "NewHere"> නව මෙහි? ගිණුම සාදන්න </string>
+    <string name = "Forgotpw"> මුරපදය අමතකද? </string>
+    <string name = "REGISTER"> දැන් ලියාපදිංචි වන්න! </string>
+    <string name="Dashboard">උපකරණ පුවරුව</string>
+    <string name="Weather">කාලගුණය</string>
+    <string name="Wish_morn">සුබ උදෑසනක්</string>
+    <string name="Wish_eve">සුබ සන්ධ්‍යාවක්</string>
+    <string name="Harvesting">අස්වනු නෙලීම</string>
+    <string name="Harvesting_Info">අස්වනු තොරතුරු </string>
+    <string name="Plot">ප්‍රස්ථාරය</string>
+    <string name="Weight">බර (Kg) </string>
+    <string name="Price">මිල(Rs)</string>
+    <string name="Name">නම</string>
+    <string name="Save">සුරකින්න </string>
+    <string name = "SelectUser"> පරිශීලක වර්ගය තෝරන්න </string>
+    <string name = "PleaseSelectUser"> කරුණාකර පරිශීලක වර්ගයක් තෝරන්න </string>
+    <string name = "Seller"> විකුණන්නා </string>
+    <string name = "Buyer"> ගැනුම්කරු </string>
+    <string name = "Next"> ඊළඟ </string>
+
+    <string name="description_info">තොරතුරු</string>
+    <string name="request_permission">මේ සඳහා කැමරා අවසරය අවශ්‍යයි.</string>
+    <string name="camera_error">මෙම උපාංගය Camera2 API සඳහා සහය නොදක්වයි.</string>
+    <string name="toggle_turn_on">NN:On</string>
+    <string name="toggle_turn_off">NN:Off</string>
+    <string name="toggle">Use NNAPI</string>
+    <string name="tflite">tflite</string>
+    <string name="nnapi">NNAPI</string>
+    <string name="threads">Threads:</string>
+
+    <string name="model">ආකෘතිය:</string>
+    <string-array name="models">
+        <item>Quantized</item>
+        <item>Float</item>
+    </string-array>
+
+    <string name="device">උපාංගය:</string>
+    <string-array name="devices">
+        <item>CPU</item>
+        <item>GPU</item>
+        <item>NNAPI</item>
+    </string-array>
+    <string name="checkHealth">ගුණාත්මකභාවය පරීක්ෂා කරන්න</string>
+    <string name="viewHealth">පෙර ගුණාත්මකභාවය පිලිබඳ තොරතුරු</string>
+    <string name="healthiness">ගුණාත්මකභාවය</string>
+    <string name="cropAndHealth">බෝග හා ගුණාත්මකභාවය</string>
+
+</resources>

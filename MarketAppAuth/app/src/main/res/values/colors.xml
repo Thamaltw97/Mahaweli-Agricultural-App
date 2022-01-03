@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#008577</color>
+    <color name="purple_500">#3EAF95</color>
+    <color name="my_app_primary_color">#25C9B0</color>
+    <color name="my_app_secondary_color">#3EAF95</color>
+    <color name="my_app_background_color">#80CBC4</color>
+    <color name="my_app_error_color">#00796B</color>
+    <color name="my_app_primary_variant_color">#008577</color>
+    <color name="my_app_secondary_variant_color">#000000</color>
+    <color name="my_app_surface_color">#25C9B0</color>
+    <color name="my_app_color_on_primary">#3EAF95</color>
+    <color name="my_app_color_on_secondary">#80CBC4</color>
+    <color name="my_app_color_on_background">#00796B</color>
+    <color name="my_app_color_on_error">#008577</color>
+    <color name="my_app_color_on_surface">#000000</color>
+    <color name="purple_200">#25C9B0</color>
+    <color name="purple_700">#3EAF95</color>
+    <color name="teal_200">#80CBC4</color>
+    <color name="teal_700">#00796B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="save_btn">#fce38a</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="semi_transparent">#66000000</color>
+
+</resources>

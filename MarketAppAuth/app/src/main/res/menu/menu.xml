@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:title="Search"
+            android:icon="@drawable/search"
+            android:id="@+id/search"
+            />
+        <item
+            android:title="Basket"
+            android:icon="@drawable/basket"
+            android:id="@+id/basket"
+            />
+        <item
+            android:title="Favorites"
+            android:icon="@drawable/favorite"
+            android:id="@+id/favorite"
+            />
+        <item
+            android:title="Promo-codes"
+            android:icon="@drawable/promo_code"
+            android:id="@+id/promo_code"
+            />
+        <item
+            android:title="Orders"
+            android:icon="@drawable/orders"
+            android:id="@+id/orders"
+            />
+    </group>
+    <item android:title=""
+        >
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:title="Setting"
+                    android:icon="@drawable/setting"
+                    android:id="@+id/setting"
+                    />
+                <item
+                    android:title="Support"
+                    android:icon="@drawable/support"
+                    android:id="@+id/support"
+                    />
+            </group>
+        </menu>
+    </item>
+</menu>

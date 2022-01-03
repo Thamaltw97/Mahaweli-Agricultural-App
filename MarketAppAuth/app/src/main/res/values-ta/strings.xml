@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mahaweli Market</string>
+    <string name = "open"> திற </string>
+    <string name = "close"> மூடு </string>
+    <string name = "hello_blank_fragment"> ஹலோ வெற்று துண்டு </string>
+    <string name = "weather_app"> வானிலை </string>
+    <string name = "haveAccount"> ஏற்கனவே கணக்கு உள்ளதா? </string>
+    <string name = "login"> உள்நுழைவு </string>
+    <string name = "NewHere"> இங்கே புதியதா? கணக்கை உருவாக்கு </string>
+    <string name = "Forgotpw"> கடவுச்சொல்லை மறந்துவிட்டீர்களா? </string>
+    <string name = "REGISTER"> இப்போது பதிவுசெய்க! </string>
+    <string name = "Dashboard"> டாஷ்போர்டு </string>
+    <string name = "Weather"> வானிலை </string>
+    <string name = "Wish_morn"> காலை வணக்கம் </string>
+    <string name = "Wish_eve"> நல்ல மாலை </string>
+    <string name = "Harvesting"> அறுவடை </string>
+    <string name = "Harvesting_Info"> அறுவடை தகவல் </string>
+    <string name = "Plot">விளக்கப்படத்தை </string>
+    <string name = "Weight"> எடை (Kg)</string>
+    <string name = "Price"> விலை (Rs)</string>
+    <string name = "Name"> பெயர் </string>
+    <string name = "Save"> சேமி </string>
+    <string name = "SelectUser"> பயனர் வகையைத் தேர்ந்தெடுக்கவும் </string>
+    <string name = "PleaseSelectUser"> தயவுசெய்து ஒரு பயனர் வகையைத் தேர்ந்தெடுக்கவும் </string>
+    <string name = "Seller"> விற்பனையாளர் </string>
+    <string name = "Buyer"> வாங்குபவர் </string>
+    <string name = "Next"> அடுத்து </string>
+
+    <string name="description_info">தகவல்</string>
+    <string name="request_permission">இதற்கு கேமரா அனுமதி தேவை.</string>
+    <string name="camera_error">இந்த சாதனம் கேமரா 2 API ஐ ஆதரிக்காது.</string>
+    <string name="toggle_turn_on">NN:On</string>
+    <string name="toggle_turn_off">NN:Off</string>
+    <string name="toggle">Use NNAPI</string>
+    <string name="tflite">tflite</string>
+    <string name="nnapi">NNAPI</string>
+    <string name="threads">Threads:</string>
+
+    <string name="model">மாதிரி:</string>
+    <string-array name="models">
+        <item>Quantized</item>
+        <item>Float</item>
+    </string-array>
+
+    <string name="device">சாதனம்:</string>
+    <string-array name="devices">
+        <item>CPU</item>
+        <item>GPU</item>
+        <item>NNAPI</item>
+    </string-array>
+    <string name="checkHealth">தரத்தை சரிபார்க்கவும்</string>
+    <string name="viewHealth">முந்தைய தர தகவல்</string>
+    <string name="healthiness">தரம்</string>
+    <string name="cropAndHealth">பயிர் மற்றும் தரம்</string>
+
+</resources>
